@@ -1,0 +1,14 @@
+{
+  "name": "github-language-color-themes",
+  "version": "1.0.0",
+  "description": "language colors in github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "js-yaml": "^3.3.0"
+  }
+}
